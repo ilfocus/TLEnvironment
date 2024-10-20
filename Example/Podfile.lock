@@ -1,0 +1,16 @@
+PODS:
+  - TLEnvironment (0.1.0)
+
+DEPENDENCIES:
+  - TLEnvironment (from `../`)
+
+EXTERNAL SOURCES:
+  TLEnvironment:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TLEnvironment: 3446dfb17ed18661c7bc102da8af6a56d0d9b536
+
+PODFILE CHECKSUM: 28d76d7b0e8c4e97576846156a6e14608aecda7b
+
+COCOAPODS: 1.15.2
